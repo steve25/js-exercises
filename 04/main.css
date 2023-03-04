@@ -1,0 +1,21 @@
+main {
+  width: 600px;
+  margin: 25px;
+}
+
+h1 {
+  color: #FF0303;
+}
+
+h2 {
+  color: purple;
+}
+
+ol {
+  color: #865DFF;
+}
+
+.special {
+  color: black;
+  text-decoration: underline;
+}
